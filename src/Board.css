@@ -39,9 +39,5 @@ button{
 button:hover{
     background: #426DFB;
     color: #fff;
-}
-@media screen and (min-width:500px){
-    button{
-        margin-top: 50px;
-    }
+    margin-top: 50px;
 }
