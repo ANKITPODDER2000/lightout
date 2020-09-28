@@ -3,9 +3,9 @@ table{
     width: 300px;
     height: 300px;
     box-shadow: 0 0 5px 1px #176078,
-                0 0 10px 5px #176078ef,
-                0 0 20px 7px #176078dc,
-                0 0 70px 15px #176078ce;
+                0 0 10px 5px #176078d5,
+                0 0 20px 7px #176078be,
+                0 0 70px 15px #176078ab;
 }
 table tbody{
     position: relative;

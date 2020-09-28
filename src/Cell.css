@@ -2,7 +2,7 @@ td{
     position: relative;
     width: 60px;
     height: 60px;
-    background: #fff9;
+    background: #fff;
     transition: 0.5s;
 }
 td.light-on{
