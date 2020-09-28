@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6781d4e68dec356c41faac8e0ee94b6",
+    "revision": "88b3223a9c2319740ae837a88102cba0",
     "url": "/lightout/index.html"
   },
   {
-    "revision": "c9f093ece5aa0d8055d1",
-    "url": "/lightout/static/css/main.02d378fb.chunk.css"
+    "revision": "72b623e20859f7a73005",
+    "url": "/lightout/static/css/main.c654a5f4.chunk.css"
   },
   {
     "revision": "55d3b61f94c09dce4753",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lightout/static/js/2.202eafd4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9f093ece5aa0d8055d1",
+    "revision": "72b623e20859f7a73005",
     "url": "/lightout/static/js/main.a2012216.chunk.js"
   },
   {
