@@ -35,9 +35,9 @@ button{
     font-weight: bolder;
     cursor: pointer;
     transition: 0.5s;
+    margin-top: 50px;
 }
 button:hover{
     background: #426DFB;
     color: #fff;
-    margin-top: 50px;
 }
